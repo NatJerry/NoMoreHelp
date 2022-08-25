@@ -1,0 +1,10 @@
+name: NoMoreHelp
+version: '${project.version}'
+main: github.ncc.jerry.Main
+authors: [ NaT_Jerry ]
+description: Ignore the vanilla help command
+commands:
+  help:
+    aliases:
+      - help
+      - ?
